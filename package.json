@@ -1,0 +1,19 @@
+{
+  "name": "my-purchases-server",
+  "version": "0.0.1",
+  "description": "Backend project of a RESTful API using node js to manage purchases in a supermarket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wildrimak/my-purchases-server.git"
+  },
+  "author": "wildrimak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wildrimak/my-purchases-server/issues"
+  },
+  "homepage": "https://github.com/Wildrimak/my-purchases-server#readme"
+}
